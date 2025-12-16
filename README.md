@@ -48,7 +48,6 @@ source ~/.bashrc
 
 ```bash
 echo "alias fastfetch='~/.config/fastfetch/fastfetch-random.sh'" >> ~/.zshrc
-source ~/.zshrc
 ```
 
 #### For Fish Users:
@@ -67,3 +66,8 @@ cp /path/to/your/image.png ~/.config/fastfetch/logo/
 ```
 
 The script will automatically pick a random image from this folder each time you run fastfetch.
+
+<img width="1440" height="854" alt="fastfetch" src="https://github.com/user-attachments/assets/012740d7-4c34-4b74-9e10-72b2506ee59d" />
+
+
+
