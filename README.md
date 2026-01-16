@@ -13,7 +13,7 @@ Display a different image every time you run fastfetch!
 ### 1. Clone or Download
 
 ```bash
-git clone https://github.com/Dhruv-Ahlawat/Fastfetch-dots
+git clone https://github.com/nyxruv/Fastfetch-dots
 cd Fastfetch-dots
 ```
 
